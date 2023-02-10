@@ -12,7 +12,7 @@
 # Requirements
  A modern web browser
 # Installation
-- Clone the repository: git clone ``` https://github.com/Chaitanya3102/OIBGRIP/LEVEL 1 TASK 1 ```
+- Clone the repository: git clone ``` https://github.com/Chaitanya3102/OIBGRIP/LEVEL1TASK1 ```
 + Open the index.html file in your browser.
 # Contributions
 Contributions are welcome! If you would like to suggest a feature or report a bug, please open an issue. If you would like to contribute to the code, please submit a pull request.
