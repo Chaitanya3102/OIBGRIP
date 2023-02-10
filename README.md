@@ -18,4 +18,4 @@
 Contributions are welcome! If you would like to suggest a feature or report a bug, please open an issue. If you would like to contribute to the code, please submit a pull request.
 
 # Contact
-If you have any questions or concerns, please reach out to us at chaitanya3102@gmail.com
+If you have any questions or concerns, please reach out to me chaitanya3102@gmail.com
